@@ -1,0 +1,12 @@
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\bin\Debug\net6.0\Zhaoxi.Communication.deps.json
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\bin\Debug\net6.0\Zhaoxi.Communication.dll
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\bin\Debug\net6.0\ref\Zhaoxi.Communication.dll
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\bin\Debug\net6.0\Zhaoxi.Communication.pdb
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\obj\Debug\net6.0\Zhaoxi.Communication.csproj.AssemblyReference.cache
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\obj\Debug\net6.0\Zhaoxi.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\obj\Debug\net6.0\Zhaoxi.Communication.AssemblyInfoInputs.cache
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\obj\Debug\net6.0\Zhaoxi.Communication.AssemblyInfo.cs
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\obj\Debug\net6.0\Zhaoxi.Communication.csproj.CoreCompileInputs.cache
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\obj\Debug\net6.0\Zhaoxi.Communication.dll
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\obj\Debug\net6.0\ref\Zhaoxi.Communication.dll
+D:\Zhaoxi.EDU\Jovan\01-VIP\[2021]WPF上位机工业互联\20220507WPF上位机Course079工业协议-Modbus\Zhaoxi.Communication\Zhaoxi.Communication\obj\Debug\net6.0\Zhaoxi.Communication.pdb

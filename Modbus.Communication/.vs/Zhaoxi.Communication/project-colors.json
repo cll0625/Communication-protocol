@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "925b86a3-2023-476a-9751-2b1b06290c81": {
+      "ProjectGuid": "925b86a3-2023-476a-9751-2b1b06290c81",
+      "DisplayName": "Zhaoxi.Communication",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "4cf1f62b-3b28-4b6d-bda1-2b61e4ac6ab6": {
+      "ProjectGuid": "4cf1f62b-3b28-4b6d-bda1-2b61e4ac6ab6",
+      "DisplayName": "Zhaoxi.CommunicationTest",
+      "ColorIndex": 1
+    },
+    "2aaaf512-e2cb-43d0-ac03-f3a820c6eee1": {
+      "ProjectGuid": "2aaaf512-e2cb-43d0-ac03-f3a820c6eee1",
+      "DisplayName": "Zhaoxi.Communication",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
